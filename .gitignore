@@ -1,0 +1,12 @@
+
+.env
+.env.*
+*.key
+secrets.*
+__pycache__/
+*.pyc
+
+# Local test outputs
+run_report.json
+recovered_export.json
+events.jsonl
